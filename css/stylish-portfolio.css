@@ -30,6 +30,12 @@ body {
     font-weight: 700;
 }
 
+.hero h1 {
+    margin: 100;
+    padding: 50;
+    font-size: 5em;
+    font-weight: 700;
+}
 /* Custom Button Styles */
 
 .btn-dark {
@@ -152,7 +158,9 @@ hr.small {
 /* Header */
 
 .header {
+    
     color: #fff;
+    font-size: small
     position: relative;
     display: table;
     position: relative;
