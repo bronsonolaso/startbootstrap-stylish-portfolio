@@ -134,11 +134,6 @@ hr.small {
     background: none;
 }
 
-  <style type="text/css">
-  html, body { margin: 0; padding:0;}
-  #signin-button {
-   padding: 5px;
-  }
 
 #menu-toggle {
     z-index: 1;
@@ -181,6 +176,13 @@ hr.small {
     -o-background-size: cover;
 }
 
+ <style type="text/css">
+  html, body { margin: 0; padding:0;}
+  #signin-button {
+   padding: 5px;
+  }
+  
+  
 .section {
     width:350px;
     float:left;
